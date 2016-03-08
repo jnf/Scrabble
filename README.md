@@ -23,7 +23,7 @@ Utilize good pair programming practices. Refer back to the articles from the [Ag
 1. Both individuals install needed tools via Terminal: 
 
     ```bash
-    $ gem install simplecov`
+    $ gem install simplecov
     $ gem install minitest-reporters
     ```
 
